@@ -21,3 +21,6 @@
 ->it should contains of all form elements of html
 ->by doing this projets you come to know about creating input fields using input tag
 ->creating lables, dropdowns and buttons
+
+Tech Stack :
+HTML
